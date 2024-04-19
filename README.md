@@ -1,0 +1,1 @@
+In this project, I have created a program with a graphical interface to facilitate the input and synchronization of items from one webshop to another.
